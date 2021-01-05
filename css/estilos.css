@@ -8,7 +8,7 @@ body
 #container 
 {
     width: 70%;
-    background-color: orange;
+    background-color: whitesmoke;
     padding: 1em;
     border-radius: 0.5em;
     text-align: center;
@@ -22,7 +22,7 @@ body
 }
 #cabecera
 {
-    background-color:rgb(26, 120, 241);
+    background-color: rgb(22, 22, 194);
     margin: 0;
     padding: 0.5em;
     font-weight: bold;
